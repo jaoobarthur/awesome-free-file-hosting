@@ -42,6 +42,18 @@ Every row must follow this exact order:
 
 ---
 
+## 🤖 AI Contribution Policy
+
+We welcome the responsible use of AI tools (such as ChatGPT, Claude, or GitHub Copilot) to assist in drafting submissions, fixing grammar, or formatting Markdown tables.
+
+However, to protect maintainers from low-quality spam, the following rules strictly apply:
+
+1. **Human Verification Required**: Every link, free-tier limit, and file size cap must be **manually tested and verified by a human** before opening a Pull Request. Do not submit hallucinated or unverified file-hosting platforms.
+2. **No Unreviewed AI Slop / Spam**: Pull Requests generated entirely by autonomous bots or submitted without human review will be closed immediately.
+3. **Engage Directly**: If maintainers ask questions about your submission, please respond in your own words rather than pasting raw automated AI responses.
+
+---
+
 ## 🛠️ How to Submit Changes
 
 1. **Fork** the repository.
