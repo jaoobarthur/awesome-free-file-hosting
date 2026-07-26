@@ -53,3 +53,13 @@ Awesome list of free file hosting sites, organized by features.
 - **File Expiry**: How long files are stored before being deleted, for example 'inactive links' mean that your links aren't regularly viewed/downloaded your links.
 - **Login Info**: If you need to create an account to upload/download files + How the login is done (Id, only username with password, etc).
 - **Allowed File Types**: The kinds of files supported by the hosting service.
+
+---
+
+## 🤖 AI Disclosure & Transparency
+
+In the spirit of open-source transparency, here is how Artificial Intelligence tools are utilized in this repository:
+
+* **Artwork & Media**: Header images and promotional banners for this repository were generated with AI assistance.
+* **Formatting & Proofreading**: AI language models are used to help format Markdown tables, refine prose, and maintain documentation.
+* **Human Verification Guarantee**: Every file-hosting service listed, along with its specifications (bandwidth, limits, expiry, and login rules), is **manually tested, reviewed, and verified by human maintainers**.
