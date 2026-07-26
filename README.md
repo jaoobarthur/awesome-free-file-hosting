@@ -37,6 +37,7 @@ Awesome list of free file hosting sites, organized by features.
 | [Akira Box](https://akirabox.com) | Unlimited        | Unlimited, 5 GB per file (Anon) or 20 GB per file (Registered)   | 7 days (Anon) or 30 days (Registered) after last download | Required (Upload), via username, email & password | All file types  |
 | [pCloud (Storage)](https://www.pcloud.com) | 50 GB/month | 2 GB | 12 months (inactive free account) | Required, via email & password | All file types |
 | [pCloud Transfer](https://transfer.pcloud.com/) | Unlimited | 5 GB | 7 days | Not required (Email verification) | All file types |
+| [Fireload](https://www.fireload.com) | Unlimited | 2 GB per file | 60 days (inactive links) | Not required (Guest), via Work Email for account | All file types |
 | [vgy.me](https://vgy.me/) | Unlimited | 20 MB per Image | 6 months (Anon, **currently not working?**) or 1 year (Registered) after last view | Required (Upload), via username, email & password | `.jpg`, `.jpeg`, `.png`, `.gif` |
 | [Stashr](https://stashr.wtf) | Unlimited | 500 MB | Choose 1h, 6h, 12h, 1d, 7d, 30d, forever | Not required, via display name, username & password | Most types, except `.exe`, `.msi`, `.bat` |
 | [FileCat](https://filecat.net/) | 50 kb/sec, 1 File per hoour, 2 files per day | 2 GB per file | Deletes files after contract term expires | Required (Upload), via username, email & password | All file types |
